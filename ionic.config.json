@@ -1,0 +1,7 @@
+{
+  "name": "UdemyStock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
